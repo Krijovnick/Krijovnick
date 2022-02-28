@@ -1,6 +1,6 @@
 <h3>👋 Hi, I’m Yuliya</h3>
 
-<p>Software Engineer from <img src="https://image.flaticon.com/icons/png/512/202/202873.png" width="30"/> Tula, Russia</p>
+<p>Software Engineer</p>
 
 <h3> <img src="https://media.giphy.com/media/Xpsp42orPpVQx0RnGb/giphy.gif" width="50"/> Languages and Tools</h3>
 <p>
