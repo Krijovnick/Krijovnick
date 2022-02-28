@@ -1,6 +1,4 @@
-<h3>👋 Hi, I’m Yuliya</h3>
-
-<p>Software Engineer</p>
+<h3>👋 Hi, I’m Yuliya - Software Engineer</h3>
 
 <h3> <img src="https://media.giphy.com/media/Xpsp42orPpVQx0RnGb/giphy.gif" width="50"/> Languages and Tools</h3>
 <p>
